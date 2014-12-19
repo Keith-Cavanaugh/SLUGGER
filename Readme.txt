@@ -6,6 +6,6 @@
 
 - By Keith Cavanaugh
 
-For CS 2210 - Gameplay footage:
+For CS 2110 - Gameplay footage:
 
 https://www.youtube.com/watch?v=1LfsXPqfl4o
